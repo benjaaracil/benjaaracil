@@ -8,4 +8,4 @@
 [<img align="left" alt="benjaaracil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/benjaaracil
-[linkedin]: https://linkedin.com/in/benjaaracil
+[linkedin]: https://linkedin.com/in/benjaminaracil
