@@ -19,7 +19,7 @@
 <h2>Languages and Tools:</h2>
 
 
-<img align-items= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaaracil&layout=compact" />
+<img justify-content= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaaracil&layout=compact" />
 
 <br>
 
