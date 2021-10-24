@@ -12,8 +12,6 @@
 <br />
 
 ### Languages and Tools:
-<br />
-
 <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaaracil&layout=compact" />
 
 <br />
@@ -37,3 +35,5 @@
 
 [instagram]: https://instagram.com/benjaaracil
 [linkedin]: https://linkedin.com/in/benjaminaracil
+
+<br />
