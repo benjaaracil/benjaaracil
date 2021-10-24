@@ -11,9 +11,15 @@
 
 <br>
 
+### Connect with me:
+
+[<img align="left" alt="benjaaracil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="benjaaracil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+
 ### Languages and Tools:
 
-<p>
 
 <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaaracil&layout=compact" />
 
@@ -28,16 +34,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-</p>
 
-<br>
 
-<p align = "left">
-<h1>Connect with me:</h1>
-
-[<img align="left" alt="benjaaracil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="benjaaracil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/benjaaracil
 [linkedin]: https://linkedin.com/in/benjaminaracil
-</p>
