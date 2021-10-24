@@ -1,6 +1,6 @@
 ### Hi everyone, I´m Benjamin 👋👨‍💻
 
-<img src="https://github.com/benjaaracil/benjaaracil/blob/master/img/banner.jpg" />
+<img alt="Banner" src="https://raw.githubusercontent.com/benjaaracil/benjaaracil/main/img/banner.jpg" />
 
 ## I'm a Developer that wants to improve himself everyday!!
 
