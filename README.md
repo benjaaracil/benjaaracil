@@ -6,13 +6,12 @@
 
 - 💬 Ask me about anything related to JavaScript
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love working out && playing videogames
 
 ### Connect with me:
 
 [<img align="left" alt="benjaaracil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="benjaaracil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
 
@@ -95,5 +94,4 @@
 
 
 
-[instagram]: https://instagram.com/benjaaracil
 [linkedin]: https://linkedin.com/in/benjaminaracil
